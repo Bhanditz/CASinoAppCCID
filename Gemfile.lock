@@ -1,3 +1,9 @@
+GIT
+  remote: https://github.com/creativecommons/casino-ccid_active_record_authenticator
+  revision: bb468da056a7311d971a34892169097f44d34578
+  specs:
+    casino-ccid_active_record_authenticator (0.1.1)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -226,6 +232,7 @@ DEPENDENCIES
   capistrano (~> 2.15)
   casino
   casino-activerecord_authenticator
+  casino-ccid_active_record_authenticator!
   casino-ldap_authenticator
   coffee-rails (~> 4.0.1)
   foreman
@@ -241,4 +248,4 @@ DEPENDENCIES
   whenever
 
 BUNDLED WITH
-   1.10.6
+   1.14.5
