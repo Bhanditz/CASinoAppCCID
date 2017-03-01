@@ -13,7 +13,10 @@ end
 gem 'casino'
 gem 'casino-ldap_authenticator'
 gem 'casino-activerecord_authenticator'
+
 gem 'casino-ccid_active_record_authenticator', :git => 'https://github.com/creativecommons/casino-ccid_active_record_authenticator'
+
+gem 'bootstrap-sass', '~> 3.2.0'
 
 gem 'http_accept_language', '~> 2.0'
 
